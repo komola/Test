@@ -19,5 +19,5 @@ exports.config =
 
   # Show customizable 'Incompatible Browser' page if browser does not support websockets
   browser_check:
-    enabled:      true
+    enabled:      false
     strict:       true
