@@ -1,6 +1,5 @@
 SocketStream Chat
 ===
-d
 
 Chat app which demos the open source SocketStream framework at https://github.com/socketstream/socketstream
 
